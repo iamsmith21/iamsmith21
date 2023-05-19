@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamsmith21](https://github.com/iamsmith21)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **smith04@my.yorku.ca**
 
