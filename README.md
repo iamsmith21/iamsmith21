@@ -31,8 +31,8 @@ I build end-to-end web applications — from database to UI. Comfortable across 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsmith21&show_icons=true&hide_border=true&bg_color=00000000&title_color=333333&icon_color=333333&text_color=666666" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmith21&layout=compact&hide_border=true&bg_color=00000000&title_color=333333&text_color=666666" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamsmith21&show_icons=true&hide_border=true&bg_color=transparent&title_color=333333&icon_color=333333&text_color=666666" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsmith21&layout=compact&hide_border=true&bg_color=transparent&title_color=333333&text_color=666666" width="48%"/>
 
 </div>
 
@@ -40,6 +40,8 @@ I build end-to-end web applications — from database to UI. Comfortable across 
 
 <div align="center">
 
-[Email](mailto:smith04@my.yorku.ca) · [LinkedIn](https://linkedin.com/in/smith-patel-778004233) · [Portfolio](https://smithpatel.com)
+<a href="mailto:smith04@my.yorku.ca"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/smith-patel-778004233"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://smithpatel.com"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 </div>
